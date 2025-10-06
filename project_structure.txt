@@ -1,0 +1,44 @@
+/lib
+  main.dart
+  /screens
+    login_screen.dart
+    supplier_dashboard.dart
+    retailer_dashboard.dart
+    product_list_screen.dart
+    order_screen.dart
+    chat_screen.dart
+  /widgets
+  /models
+  /providers
+  /services
+    api_service.dart
+    auth_service.dart
+    payment_service.dart
+    chat_service.dart
+
+/backend
+  server.js
+  /routes
+    auth.js
+    products.js
+    orders.js
+    payments.js
+    chat.js
+  /controllers
+  /models
+  /middlewares
+  /config
+    db.js
+    aws.js
+    mail.js
+
+/assets
+  /images
+  /icons
+  /mock_data
+
+/docs
+  api_endpoints.md
+  system_architecture.png
+  feature_list.md
+  business_flow.md
