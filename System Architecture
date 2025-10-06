@@ -1,0 +1,13 @@
+Suppliers / Retailers / Distributors → TradeBase Web & Mobile App (Flutter)
+│
+│──> REST API (Node.js + Express / FastAPI)
+│
+│──> Database (PostgreSQL / MongoDB)
+│
+│──> Storage (AWS S3 / ReinHost Storage)
+│
+│──> Payment Gateway (Paystack / Flutterwave)
+│
+│──> Hosting (ReinHost VPS / AWS EC2)
+│
+└──> Notifications (Firebase / SMTP)
